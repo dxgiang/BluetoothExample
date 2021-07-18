@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btnOnOff">ON/OFF</string>
+    <string name="btnEnableSearching">Enable Searching</string>
+    <string name="discover">Search</string>
+</resources>
